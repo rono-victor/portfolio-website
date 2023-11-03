@@ -19,4 +19,18 @@
     text-decoration: none;
     color: white;
     font-size: 18px;
+    color: white;
+}
+.hero{
+    background-color: black;
+    min-height: 70vh;
+}
+.home-desc{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding-top: 12rem;
+    color: white; 
+
 }
