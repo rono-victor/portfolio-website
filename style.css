@@ -34,3 +34,36 @@
     color: white; 
 
 }
+.home-desc > img{
+    width: 400px;
+    height: 400px;
+}
+.home-content{
+    width: 50%;
+}
+.home-content > h1{
+    font-size: 2rem;
+    margin-bottom: 4rem;
+    width: 100%;
+}
+.name-style{
+    color: gold;
+}
+.home-content > p{
+    width: 80%;
+    margin-bottom: 4rem;
+    line-height: 30px;
+}
+.home-content > a > button{
+    background-color: transparent;
+    color: white;
+    border-radius: 999px;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 1rem 4rem;
+}
+.home-content > a > button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
