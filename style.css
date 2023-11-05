@@ -92,3 +92,41 @@
     text-decoration-color: red;
     font-family: cursive;
 }
+.contacts{
+    width: 80%;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.contacts > h1{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.contacts > form > label{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.contacts > form > input{
+    width: 30%;
+    padding: 10px;
+}
+.contacts > form >textarea{
+    width: 30%;
+    padding: 10%;
+}
+.contacts > form > button{
+    background-color: green;
+    color: white;
+    border-radius: 999px;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 1rem 4rem;
+    margin: 3rem;
+}
+.contacts > form > button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
